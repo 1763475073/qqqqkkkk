@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="640" viewBox="0 0 900 640">
+  <rect width="900" height="640" fill="#f1edf7"/>
+  <rect x="28" y="28" width="844" height="584" rx="26" fill="#ffffff" opacity="0.72"/>
+  <circle cx="760" cy="120" r="92" fill="#6c4f8f" opacity="0.15"/>
+  <circle cx="805" cy="188" r="42" fill="#273441" opacity="0.10"/>
+  <path d="M52 502 C198 438 298 560 430 488 C555 420 666 443 848 376" fill="none" stroke="#6c4f8f" stroke-width="10" opacity="0.18"/>
+  <text x="50" y="72" font-size="18" fill="#6c4f8f" font-weight="700">西班牙文 · El Cultural 非虚构榜 Top5</text>
+  <text x="50" y="132" font-size="42" fill="#273441">El jardinero y la</text>
+  <text x="50" y="182" font-size="42" fill="#273441">muerte（暂译：园丁与死亡）</text>
+  <text x="52" y="292" font-size="22" fill="#6c4f8f" font-weight="700">内容速览</text>
+  <text x="52" y="332" font-size="25" fill="#273441">以父亲病重直至离世的漫长时段为叙事核心，作者在记忆与现场照护之间往返，书写沉默、爱与告别。</text>
+  <text x="52" y="506" font-size="19" fill="#6c4f8f" font-weight="700">推荐理由</text>
+  <text x="52" y="536" font-size="18" fill="#273441">西语畅销榜单作品，触及家庭叙事、哀悼书写与普遍心理议题。</text>
+  <rect x="50" y="580" width="58" height="34" rx="17" fill="#6c4f8f" opacity="0.13"/><text x="66" y="602" font-size="16" fill="#6c4f8f">文学</text>
+  <rect x="120" y="580" width="72" height="34" rx="17" fill="#6c4f8f" opacity="0.13"/><text x="136" y="602" font-size="16" fill="#6c4f8f">心理学</text>
+</svg>
